@@ -165,8 +165,8 @@
                             </div>
                         </div>
                     </main>
-                    <h1>Wassup!</h1>
-                    <h2>YOOOOO!</h2>
+                    <h1>Hi!</h1>
+                    <h2>YOOOOO!</h2>                  
                     <footer class="py-16 text-center text-sm text-black dark:text-white/70">
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                     </footer>
